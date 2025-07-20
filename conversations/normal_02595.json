@@ -1,0 +1,47 @@
+{
+  "conversation_id": "37811fa2-bcde-4337-8186-18a3385630f1",
+  "timestamp": "2024-11-03 14:36:49",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-03 14:36:49",
+      "message": "Can you help me reset my password?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-03 14:38:49",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-03 14:40:49",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-03 14:43:49",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-03 14:45:49",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-03 14:47:49",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-03 14:48:49",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-03 14:52:49",
+      "message": "What specific issue are you experiencing?"
+    }
+  ]
+}

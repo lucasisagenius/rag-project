@@ -1,0 +1,67 @@
+{
+  "conversation_id": "95c7d02f-935d-44d6-bc86-6ce8141a863f",
+  "timestamp": "2025-02-16 14:36:50",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-16 14:36:50",
+      "message": "I'm having trouble logging in."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-16 14:40:50",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-16 14:42:50",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-16 14:47:50",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-16 14:48:50",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-16 14:53:50",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-16 14:56:50",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-16 14:58:50",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-16 15:00:50",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-16 15:03:50",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-16 15:05:50",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-16 15:10:50",
+      "message": "I'll need to ask you some security questions."
+    }
+  ]
+}

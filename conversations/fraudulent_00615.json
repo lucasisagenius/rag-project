@@ -1,0 +1,57 @@
+{
+  "conversation_id": "0c333d46-81dd-4ea5-aa44-5aee1011dc5c",
+  "timestamp": "2025-05-20 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-20 14:36:56",
+      "message": "I can get you a loan with no credit check"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-20 14:37:56",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-20 14:39:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-20 14:42:56",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-20 14:43:56",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-20 14:45:56",
+      "message": "I need to escalate this to our fraud prevention team."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-20 14:46:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-20 14:47:56",
+      "message": "I need to verify this through official channels."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-20 14:48:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-20 14:50:56",
+      "message": "I cannot provide account information without proper authentication."
+    }
+  ]
+}

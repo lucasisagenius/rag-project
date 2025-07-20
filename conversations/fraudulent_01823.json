@@ -1,0 +1,47 @@
+{
+  "conversation_id": "042bd9c3-52cd-4c74-8250-3fa31c3bd364",
+  "timestamp": "2024-08-18 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-18 14:36:57",
+      "message": "I need your bank account details to transfer money"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-18 14:38:57",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-18 14:39:57",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-18 14:41:57",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-18 14:43:57",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-18 14:45:57",
+      "message": "This request seems unusual and requires review."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-18 14:47:57",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-18 14:48:57",
+      "message": "I cannot process that request without proper verification."
+    }
+  ]
+}

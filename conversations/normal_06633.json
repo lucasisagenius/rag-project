@@ -1,0 +1,67 @@
+{
+  "conversation_id": "15b049f0-3c7d-4aed-9968-27a991bf7149",
+  "timestamp": "2024-08-18 14:36:54",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-18 14:36:54",
+      "message": "I want to add a new payment method."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-18 14:39:54",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-18 14:42:54",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-18 14:43:54",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-18 14:46:54",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-18 14:50:54",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-18 14:52:54",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-18 14:57:54",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-18 15:00:54",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-18 15:05:54",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-18 15:07:54",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-18 15:12:54",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

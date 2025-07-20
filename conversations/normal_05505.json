@@ -1,0 +1,77 @@
+{
+  "conversation_id": "347b4116-f93d-4f7c-b58b-3d48d9e7ecdb",
+  "timestamp": "2025-05-24 14:36:53",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-24 14:36:53",
+      "message": "I want to add a new payment method."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-24 14:40:53",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-24 14:43:53",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-24 14:45:53",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-24 14:46:53",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-24 14:51:53",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-24 14:54:53",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-24 14:58:53",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-24 14:59:53",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-24 15:01:53",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-24 15:02:53",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-24 15:04:53",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-24 15:07:53",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-24 15:09:53",
+      "message": "I'd be happy to help you with that."
+    }
+  ]
+}

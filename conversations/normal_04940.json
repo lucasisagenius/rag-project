@@ -1,0 +1,57 @@
+{
+  "conversation_id": "c181ab1a-5b8f-420d-ab22-9fa983572d79",
+  "timestamp": "2024-08-22 14:36:52",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-22 14:36:52",
+      "message": "Can you help me reset my password?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-22 14:40:52",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-22 14:43:52",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-22 14:44:52",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-22 14:46:52",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-22 14:51:52",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-22 14:54:52",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-22 14:57:52",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-22 14:58:52",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-22 15:01:52",
+      "message": "I'd be happy to help you with that."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "conversation_id": "56bdd066-d779-46e5-bc05-0cea1db73b49",
+  "timestamp": "2024-08-01 14:36:49",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-01 14:36:49",
+      "message": "Can you explain this charge on my account?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-01 14:37:49",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-01 14:40:49",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-01 14:44:49",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-01 14:47:49",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-01 14:48:49",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-01 14:51:49",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-01 14:53:49",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-01 14:55:49",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-01 14:57:49",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-01 14:59:49",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-01 15:00:49",
+      "message": "I can see your account information now."
+    }
+  ]
+}

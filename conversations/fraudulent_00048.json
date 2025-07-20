@@ -1,0 +1,47 @@
+{
+  "conversation_id": "6c21c058-922a-46db-a9f6-cfef16a94f51",
+  "timestamp": "2025-04-26 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-26 14:36:55",
+      "message": "I can help you make money fast with cryptocurrency"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-26 14:37:55",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-26 14:38:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-26 14:40:55",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-26 14:41:55",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-26 14:43:55",
+      "message": "This request requires additional security measures."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-26 14:45:55",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-26 14:47:55",
+      "message": "I cannot provide account information without proper authentication."
+    }
+  ]
+}

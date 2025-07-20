@@ -1,0 +1,87 @@
+{
+  "conversation_id": "d5f443ce-3c76-4cf9-a407-40e9ad46f286",
+  "timestamp": "2024-10-02 14:36:48",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-02 14:36:48",
+      "message": "Hi, I need help with my account."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-02 14:37:48",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-02 14:38:48",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-02 14:40:48",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-02 14:41:48",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-02 14:45:48",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-02 14:47:48",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-02 14:48:48",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-02 14:49:48",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-02 14:53:48",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-02 14:55:48",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-02 14:56:48",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-02 14:59:48",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-02 15:02:48",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-02 15:05:48",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-02 15:07:48",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "conversation_id": "8d08b8a3-43b5-4579-908d-1c5e09bb7b34",
+  "timestamp": "2025-05-31 14:36:48",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-31 14:36:48",
+      "message": "I want to add a new payment method."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-31 14:40:48",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-31 14:41:48",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-31 14:42:48",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-31 14:43:48",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-31 14:46:48",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-31 14:48:48",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-31 14:52:48",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-31 14:54:48",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-31 14:55:48",
+      "message": "Can you provide your account number?"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "conversation_id": "5f155b58-5ce9-464e-b8e2-c4b1283e1de5",
+  "timestamp": "2024-08-07 14:36:52",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-07 14:36:52",
+      "message": "I want to update my personal information."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-07 14:41:52",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-07 14:43:52",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-07 14:46:52",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-07 14:47:52",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-07 14:49:52",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-07 14:52:52",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-07 14:54:52",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-07 14:57:52",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-07 15:01:52",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-07 15:03:52",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-07 15:05:52",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-07 15:08:52",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-07 15:10:52",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-07 15:12:52",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-07 15:15:52",
+      "message": "Let me transfer you to the appropriate department."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "conversation_id": "119bc903-5d9e-480f-a449-c1d7281ef6ad",
+  "timestamp": "2025-06-13 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-13 14:36:56",
+      "message": "I need to transfer money urgently to my sick relative"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-13 14:39:56",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-13 14:41:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-13 14:43:56",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-13 14:44:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-13 14:46:56",
+      "message": "This request requires additional security measures."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-13 14:48:56",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-13 14:50:56",
+      "message": "This request requires additional security measures."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-13 14:51:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-13 14:53:56",
+      "message": "This request requires additional security measures."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "conversation_id": "ea97a9da-70f1-4f9d-a139-280f77ff3bb9",
+  "timestamp": "2025-06-14 14:36:49",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-14 14:36:49",
+      "message": "I'm having trouble logging in."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-14 14:39:49",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-14 14:41:49",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-14 14:45:49",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-14 14:46:49",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-14 14:47:49",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-14 14:49:49",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-14 14:53:49",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-14 14:54:49",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-14 14:56:49",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-14 14:59:49",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-14 15:04:49",
+      "message": "I'll need to ask you some security questions."
+    }
+  ]
+}

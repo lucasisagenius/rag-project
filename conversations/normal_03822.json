@@ -1,0 +1,47 @@
+{
+  "conversation_id": "3584e8ca-4889-4037-9d92-e9201b050d87",
+  "timestamp": "2025-03-12 14:36:51",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-12 14:36:51",
+      "message": "I need to change my email address."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-12 14:37:51",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-12 14:39:51",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-12 14:40:51",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-12 14:42:51",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-12 14:45:51",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-12 14:48:51",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-12 14:50:51",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

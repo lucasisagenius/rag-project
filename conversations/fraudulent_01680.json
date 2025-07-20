@@ -1,0 +1,67 @@
+{
+  "conversation_id": "161f9fd6-9bb6-4965-a6b5-d58cfb538904",
+  "timestamp": "2025-02-09 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-09 14:36:57",
+      "message": "I need you to buy gift cards and send me the codes"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-09 14:39:57",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-09 14:41:57",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-09 14:43:57",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-09 14:45:57",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-09 14:48:57",
+      "message": "I cannot process that request without proper verification."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-09 14:49:57",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-09 14:51:57",
+      "message": "I need to verify this through official channels."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-09 14:52:57",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-09 14:55:57",
+      "message": "I need to escalate this to our fraud prevention team."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-09 14:57:57",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-09 14:59:57",
+      "message": "I cannot provide account information without proper authentication."
+    }
+  ]
+}

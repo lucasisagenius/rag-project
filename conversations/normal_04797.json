@@ -1,0 +1,57 @@
+{
+  "conversation_id": "04a1e770-46a7-4d3b-8e4e-f7081fe5c26d",
+  "timestamp": "2025-03-26 14:36:52",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-26 14:36:52",
+      "message": "Can you help me reset my password?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-26 14:40:52",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-26 14:42:52",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-26 14:45:52",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-26 14:46:52",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-26 14:51:52",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-26 14:54:52",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-26 14:56:52",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-26 14:57:52",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-26 14:58:52",
+      "message": "What specific issue are you experiencing?"
+    }
+  ]
+}

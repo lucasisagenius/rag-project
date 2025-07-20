@@ -1,0 +1,57 @@
+{
+  "conversation_id": "724c69ab-bf3f-4e09-83e7-dd2de4503c99",
+  "timestamp": "2025-04-14 14:36:50",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-14 14:36:50",
+      "message": "I want to close my account."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-14 14:41:50",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-14 14:42:50",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-14 14:47:50",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-14 14:49:50",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-14 14:50:50",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-14 14:51:50",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-14 14:55:50",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-14 14:58:50",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-14 15:03:50",
+      "message": "I'll need to ask you some security questions."
+    }
+  ]
+}

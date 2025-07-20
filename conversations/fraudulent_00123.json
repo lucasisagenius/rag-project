@@ -1,0 +1,57 @@
+{
+  "conversation_id": "9dc8397b-c967-498f-ba45-2face0616eea",
+  "timestamp": "2025-02-05 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-05 14:36:55",
+      "message": "I need your credit card information to process a refund"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-05 14:38:55",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-05 14:40:55",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-05 14:42:55",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-05 14:44:55",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-05 14:47:55",
+      "message": "I need to escalate this to our fraud prevention team."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-05 14:49:55",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-05 14:51:55",
+      "message": "I need to verify this through official channels."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-05 14:53:55",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-05 14:55:55",
+      "message": "I cannot process that request without proper verification."
+    }
+  ]
+}

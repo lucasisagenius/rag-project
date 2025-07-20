@@ -1,0 +1,47 @@
+{
+  "conversation_id": "cac87ccd-07f4-4992-91c4-bbf437f942db",
+  "timestamp": "2025-03-31 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-31 14:36:55",
+      "message": "I can get you a loan with no credit check"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-31 14:37:55",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-31 14:39:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-31 14:41:55",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-31 14:43:55",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-31 14:45:55",
+      "message": "This request requires additional security measures."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-31 14:47:55",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-31 14:48:55",
+      "message": "That's not how we handle account changes."
+    }
+  ]
+}

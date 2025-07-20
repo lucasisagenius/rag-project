@@ -1,0 +1,77 @@
+{
+  "conversation_id": "fdf38f71-b9cc-47da-8c91-340d50800fb9",
+  "timestamp": "2024-09-24 14:36:52",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-24 14:36:52",
+      "message": "Hi, I need help with my account."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-24 14:41:52",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-24 14:43:52",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-24 14:48:52",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-24 14:50:52",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-24 14:52:52",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-24 14:53:52",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-24 14:57:52",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-24 15:00:52",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-24 15:05:52",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-24 15:07:52",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-24 15:10:52",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-24 15:13:52",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-24 15:15:52",
+      "message": "Let me verify your account information first."
+    }
+  ]
+}

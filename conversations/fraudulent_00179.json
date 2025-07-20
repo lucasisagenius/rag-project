@@ -1,0 +1,27 @@
+{
+  "conversation_id": "18673e47-0e8c-4b33-8658-869097f43f8a",
+  "timestamp": "2025-03-18 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-18 14:36:55",
+      "message": "I won a lottery and need to pay taxes to claim it"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-18 14:39:55",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-18 14:40:55",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-18 14:43:55",
+      "message": "Can you provide your account number?"
+    }
+  ]
+}

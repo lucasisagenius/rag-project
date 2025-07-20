@@ -1,0 +1,57 @@
+{
+  "conversation_id": "095de9ab-4d86-41ab-a523-794a2fa7b85a",
+  "timestamp": "2025-06-08 14:36:48",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-08 14:36:48",
+      "message": "I want to add a new payment method."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-08 14:40:48",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-08 14:41:48",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-08 14:46:48",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-08 14:47:48",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-08 14:50:48",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-08 14:52:48",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-08 14:55:48",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-08 14:56:48",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-08 14:57:48",
+      "message": "I'm looking up your account now."
+    }
+  ]
+}

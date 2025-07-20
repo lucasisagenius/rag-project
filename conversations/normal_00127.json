@@ -1,0 +1,67 @@
+{
+  "conversation_id": "30cbba8c-c0fc-4bb8-b888-01457633268c",
+  "timestamp": "2025-05-18 14:36:47",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-18 14:36:47",
+      "message": "I need to change my email address."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-18 14:38:47",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-18 14:39:47",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-18 14:44:47",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-18 14:46:47",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-18 14:50:47",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-18 14:51:47",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-18 14:55:47",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-18 14:57:47",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-18 14:58:47",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-18 14:59:47",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-18 15:04:47",
+      "message": "I'm looking up your account now."
+    }
+  ]
+}

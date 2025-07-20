@@ -1,0 +1,87 @@
+{
+  "conversation_id": "d0b5ae10-812a-416d-86f6-a77abe0a4570",
+  "timestamp": "2024-09-21 14:36:51",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-21 14:36:51",
+      "message": "Can you explain this charge on my account?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-21 14:37:51",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-21 14:38:51",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-21 14:40:51",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-21 14:42:51",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-21 14:44:51",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-21 14:45:51",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-21 14:49:51",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-21 14:51:51",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-21 14:53:51",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-21 14:55:51",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-21 14:58:51",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-21 15:00:51",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-21 15:01:51",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-21 15:03:51",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-21 15:06:51",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

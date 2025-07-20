@@ -1,0 +1,57 @@
+{
+  "conversation_id": "b96bada2-7805-499f-a6c8-0da9aedf86e8",
+  "timestamp": "2025-01-20 14:36:50",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-20 14:36:50",
+      "message": "Can you verify my identity?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-20 14:39:50",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-20 14:40:50",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-20 14:42:50",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-20 14:45:50",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-20 14:50:50",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-20 14:53:50",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-20 14:55:50",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-20 14:58:50",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-20 14:59:50",
+      "message": "I'm looking up your account now."
+    }
+  ]
+}

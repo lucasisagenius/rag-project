@@ -1,0 +1,57 @@
+{
+  "conversation_id": "e14b4b96-6737-4fb6-b544-d870ce5a4d9f",
+  "timestamp": "2025-01-11 14:36:51",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-11 14:36:51",
+      "message": "I want to update my personal information."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-11 14:37:51",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-11 14:38:51",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-11 14:41:51",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-11 14:42:51",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-11 14:45:51",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-11 14:48:51",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-11 14:52:51",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-11 14:55:51",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-11 14:56:51",
+      "message": "Let me transfer you to the appropriate department."
+    }
+  ]
+}

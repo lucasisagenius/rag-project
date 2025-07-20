@@ -1,0 +1,47 @@
+{
+  "conversation_id": "5f2c0d03-8890-4450-a3e6-0b7a69ef86fd",
+  "timestamp": "2024-12-19 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-19 14:36:57",
+      "message": "I'm calling from Microsoft support about your computer"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-19 14:38:57",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-19 14:40:57",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-19 14:43:57",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-19 14:44:57",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-19 14:46:57",
+      "message": "I need to contact you through official channels only."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-19 14:48:57",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-19 14:50:57",
+      "message": "I need to escalate this to our fraud prevention team."
+    }
+  ]
+}

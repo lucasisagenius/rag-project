@@ -1,0 +1,47 @@
+{
+  "conversation_id": "fbeb0c17-b545-4e32-a3dd-1a272d8cba9e",
+  "timestamp": "2024-12-06 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-06 14:36:56",
+      "message": "I'm calling from Microsoft support about your computer"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-06 14:38:56",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-06 14:39:56",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-06 14:42:56",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-06 14:44:56",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-06 14:46:56",
+      "message": "That's not how we handle account changes."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-06 14:47:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-06 14:50:56",
+      "message": "I need to contact you through official channels only."
+    }
+  ]
+}

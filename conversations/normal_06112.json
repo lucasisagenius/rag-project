@@ -1,0 +1,37 @@
+{
+  "conversation_id": "5fe7e129-bae2-4445-90da-3b9dc8693db7",
+  "timestamp": "2024-08-08 14:36:53",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-08 14:36:53",
+      "message": "Hi, I need help with my account."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-08 14:40:53",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-08 14:43:53",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-08 14:46:53",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-08 14:48:53",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-08 14:52:53",
+      "message": "I'll need to escalate this to a supervisor."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "conversation_id": "7fbd7ef6-ef1e-41a1-b503-d930842c9bfe",
+  "timestamp": "2024-11-04 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-04 14:36:55",
+      "message": "I need your social security number for verification"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-04 14:39:55",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-04 14:40:55",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-04 14:41:55",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-04 14:42:55",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-04 14:44:55",
+      "message": "That's not how we handle account changes."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-04 14:45:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-04 14:48:55",
+      "message": "I need to contact you through official channels only."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-04 14:50:55",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-04 14:53:55",
+      "message": "I cannot process urgent transfers without verification."
+    }
+  ]
+}

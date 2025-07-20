@@ -1,0 +1,67 @@
+{
+  "conversation_id": "7dda1965-c6e4-4549-adb7-5b82c147a2b1",
+  "timestamp": "2025-04-26 14:36:49",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-26 14:36:49",
+      "message": "I need to change my email address."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-26 14:40:49",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-26 14:41:49",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-26 14:45:49",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-26 14:48:49",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-26 14:53:49",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-26 14:54:49",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-26 14:55:49",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-26 14:56:49",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-26 14:58:49",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-26 14:59:49",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-26 15:02:49",
+      "message": "What specific issue are you experiencing?"
+    }
+  ]
+}

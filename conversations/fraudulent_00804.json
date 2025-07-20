@@ -1,0 +1,57 @@
+{
+  "conversation_id": "faa8b9c9-ef95-44e9-8baa-3eba1f8f3f60",
+  "timestamp": "2024-11-17 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-17 14:36:56",
+      "message": "I need to transfer money urgently to my sick relative"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-17 14:39:56",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-17 14:41:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-17 14:44:56",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-17 14:45:56",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-17 14:47:56",
+      "message": "I cannot provide account information without proper authentication."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-17 14:48:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-17 14:50:56",
+      "message": "That's not how we handle account changes."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-17 14:52:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-17 14:53:56",
+      "message": "I need to contact you through official channels only."
+    }
+  ]
+}

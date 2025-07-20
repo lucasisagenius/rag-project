@@ -1,0 +1,37 @@
+{
+  "conversation_id": "7369e231-0b17-44a7-8972-e2fdad3b890f",
+  "timestamp": "2025-02-01 14:36:50",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-01 14:36:50",
+      "message": "I want to close my account."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-01 14:38:50",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-01 14:40:50",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-01 14:42:50",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-01 14:45:50",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-01 14:48:50",
+      "message": "Let me transfer you to the appropriate department."
+    }
+  ]
+}

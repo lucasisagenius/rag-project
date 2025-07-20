@@ -1,0 +1,47 @@
+{
+  "conversation_id": "18912ccf-89c0-4558-a5f0-ba3326e0e9be",
+  "timestamp": "2025-03-08 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-08 14:36:57",
+      "message": "I need to transfer money urgently to my sick relative"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-08 14:37:57",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-08 14:38:57",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-08 14:40:57",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-08 14:42:57",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-08 14:45:57",
+      "message": "I cannot process urgent transfers without verification."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-08 14:47:57",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-08 14:50:57",
+      "message": "That's not a standard procedure for our company."
+    }
+  ]
+}

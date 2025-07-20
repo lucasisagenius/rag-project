@@ -1,0 +1,37 @@
+{
+  "conversation_id": "5ff56ce4-a69a-453c-b14f-8f3b2a0fabc7",
+  "timestamp": "2025-05-05 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-05 14:36:57",
+      "message": "I won a lottery and need to pay taxes to claim it"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-05 14:38:57",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-05 14:39:57",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-05 14:42:57",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-05 14:43:57",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-05 14:44:57",
+      "message": "I need to escalate this to our fraud prevention team."
+    }
+  ]
+}

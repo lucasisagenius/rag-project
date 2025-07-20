@@ -1,0 +1,57 @@
+{
+  "conversation_id": "3f702496-3f88-485e-a982-c2e2c4106c74",
+  "timestamp": "2025-03-23 14:36:54",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-23 14:36:54",
+      "message": "I need help with a transaction."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-23 14:40:54",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-23 14:42:54",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-23 14:43:54",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-23 14:45:54",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-23 14:49:54",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-23 14:50:54",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-23 14:54:54",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-23 14:57:54",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-23 14:59:54",
+      "message": "What specific issue are you experiencing?"
+    }
+  ]
+}

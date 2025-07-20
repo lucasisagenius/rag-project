@@ -1,0 +1,47 @@
+{
+  "conversation_id": "ca2feb5e-41d2-4a92-96bf-e2fcc1b6fe9c",
+  "timestamp": "2025-05-11 14:36:54",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-11 14:36:54",
+      "message": "I'm having trouble logging in."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-11 14:37:54",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-11 14:39:54",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-11 14:40:54",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-11 14:41:54",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-11 14:44:54",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-11 14:45:54",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-11 14:50:54",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

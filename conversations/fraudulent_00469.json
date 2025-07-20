@@ -1,0 +1,47 @@
+{
+  "conversation_id": "75b9d6f2-c6ef-4dcb-b886-b3a31d2f3097",
+  "timestamp": "2025-05-09 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-09 14:36:55",
+      "message": "I'm a Nigerian prince and need your help"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-09 14:37:55",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-09 14:38:55",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-09 14:39:55",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-09 14:40:55",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-09 14:42:55",
+      "message": "I need to contact you through official channels only."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-09 14:43:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-09 14:44:55",
+      "message": "I cannot provide account information without proper authentication."
+    }
+  ]
+}

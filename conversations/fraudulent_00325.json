@@ -1,0 +1,57 @@
+{
+  "conversation_id": "ed1a9564-5052-4b3c-aa5e-9454f6a235ce",
+  "timestamp": "2024-12-14 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-14 14:36:55",
+      "message": "I need your bank account details to transfer money"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-14 14:38:55",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-14 14:40:55",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-14 14:42:55",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-14 14:43:55",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-14 14:44:55",
+      "message": "I cannot process that request without proper verification."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-14 14:45:55",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-14 14:46:55",
+      "message": "This request seems unusual and requires review."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-14 14:48:55",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-14 14:50:55",
+      "message": "I cannot process that request without proper verification."
+    }
+  ]
+}

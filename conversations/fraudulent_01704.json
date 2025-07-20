@@ -1,0 +1,67 @@
+{
+  "conversation_id": "851d0267-5137-4373-a397-c51d2f7d3289",
+  "timestamp": "2024-12-17 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-17 14:36:57",
+      "message": "I'm calling from Microsoft support about your computer"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-17 14:38:57",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-17 14:39:57",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-17 14:42:57",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-17 14:43:57",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-17 14:44:57",
+      "message": "This request requires additional security measures."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-17 14:45:57",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-17 14:48:57",
+      "message": "That's not how we handle account changes."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-17 14:49:57",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-17 14:50:57",
+      "message": "That's not a standard procedure for our company."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-17 14:51:57",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-17 14:52:57",
+      "message": "I cannot process urgent transfers without verification."
+    }
+  ]
+}

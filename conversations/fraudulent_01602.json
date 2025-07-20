@@ -1,0 +1,57 @@
+{
+  "conversation_id": "4d8d5278-e7ee-475c-9892-cf9eaf3ec051",
+  "timestamp": "2024-09-16 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-16 14:36:57",
+      "message": "I won a lottery and need to pay taxes to claim it"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-16 14:38:57",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-16 14:39:57",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-16 14:41:57",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-16 14:43:57",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-16 14:44:57",
+      "message": "This request requires additional security measures."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-16 14:45:57",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-16 14:46:57",
+      "message": "This request requires additional security measures."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-16 14:48:57",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-16 14:51:57",
+      "message": "I cannot provide account information without proper authentication."
+    }
+  ]
+}

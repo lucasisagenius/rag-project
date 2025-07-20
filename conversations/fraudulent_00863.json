@@ -1,0 +1,57 @@
+{
+  "conversation_id": "c0003306-72e0-490a-825c-d2af25116343",
+  "timestamp": "2024-11-09 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-09 14:36:56",
+      "message": "I'm a Nigerian prince and need your help"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-09 14:37:56",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-09 14:38:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-09 14:40:56",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-09 14:41:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-09 14:42:56",
+      "message": "That's not a standard procedure for our company."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-09 14:43:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-09 14:46:56",
+      "message": "That's not how we handle account changes."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-09 14:47:56",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-09 14:48:56",
+      "message": "This request seems unusual and requires review."
+    }
+  ]
+}

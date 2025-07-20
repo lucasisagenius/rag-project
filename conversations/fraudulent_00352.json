@@ -1,0 +1,57 @@
+{
+  "conversation_id": "3a668eea-72b2-4293-8664-63dcdad72bef",
+  "timestamp": "2024-10-04 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-04 14:36:55",
+      "message": "I need your bank account details to transfer money"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-04 14:37:55",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-04 14:38:55",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-04 14:41:55",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-04 14:42:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-04 14:44:55",
+      "message": "That's not a standard procedure for our company."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-04 14:45:55",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-04 14:47:55",
+      "message": "I need to verify this through official channels."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-04 14:49:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-04 14:51:55",
+      "message": "This request requires additional security measures."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "conversation_id": "8ffb7da0-cfd5-4101-b106-ac1723a101ae",
+  "timestamp": "2024-12-08 14:36:47",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-08 14:36:47",
+      "message": "I need help with a transaction."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-08 14:37:47",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-08 14:40:47",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-08 14:42:47",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-08 14:43:47",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-08 14:46:47",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-08 14:48:47",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-08 14:49:47",
+      "message": "Let me verify your account information first."
+    }
+  ]
+}

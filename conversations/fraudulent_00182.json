@@ -1,0 +1,27 @@
+{
+  "conversation_id": "aeca5646-1c26-482a-aa00-ee9c6b23781f",
+  "timestamp": "2024-08-03 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-03 14:36:55",
+      "message": "I need your bank account details to transfer money"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-03 14:39:55",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-03 14:40:55",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-03 14:42:55",
+      "message": "Let me transfer you to the appropriate department."
+    }
+  ]
+}

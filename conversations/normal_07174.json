@@ -1,0 +1,37 @@
+{
+  "conversation_id": "3e942de3-e2a7-4c80-a77c-f66e0f74360b",
+  "timestamp": "2025-07-10 14:36:54",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-07-10 14:36:54",
+      "message": "I want to update my personal information."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-07-10 14:39:54",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-07-10 14:40:54",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-07-10 14:43:54",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-07-10 14:45:54",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-07-10 14:49:54",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

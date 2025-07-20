@@ -1,0 +1,37 @@
+{
+  "conversation_id": "e95d8947-9053-4caa-ac88-b3a99f98f288",
+  "timestamp": "2025-06-09 14:36:55",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-09 14:36:55",
+      "message": "I need to change my email address."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-09 14:37:55",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-09 14:40:55",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-09 14:43:55",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-09 14:44:55",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-09 14:48:55",
+      "message": "I'll need to ask you some security questions."
+    }
+  ]
+}

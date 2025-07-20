@@ -1,0 +1,57 @@
+{
+  "conversation_id": "5b85b0b8-1294-4442-a721-efb623d93db5",
+  "timestamp": "2025-01-15 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-15 14:36:56",
+      "message": "I'm calling from Microsoft support about your computer"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-15 14:37:56",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-15 14:38:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-15 14:39:56",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-15 14:40:56",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-15 14:42:56",
+      "message": "I cannot process urgent transfers without verification."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-15 14:44:56",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-15 14:45:56",
+      "message": "I need to contact you through official channels only."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-15 14:46:56",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-15 14:48:56",
+      "message": "I cannot process urgent transfers without verification."
+    }
+  ]
+}

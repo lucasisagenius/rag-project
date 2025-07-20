@@ -1,0 +1,67 @@
+{
+  "conversation_id": "3d29ffc3-0c2b-4c1a-aa6f-a1bc6ea21208",
+  "timestamp": "2024-12-06 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-06 14:36:56",
+      "message": "I'm a Nigerian prince and need your help"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-06 14:37:56",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-06 14:39:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-06 14:40:56",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-06 14:41:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-06 14:44:56",
+      "message": "I need to escalate this to our fraud prevention team."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-06 14:46:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-06 14:47:56",
+      "message": "I cannot provide account information without proper authentication."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-06 14:48:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-06 14:51:56",
+      "message": "This request requires additional security measures."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-06 14:53:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-06 14:55:56",
+      "message": "I cannot process that request without proper verification."
+    }
+  ]
+}

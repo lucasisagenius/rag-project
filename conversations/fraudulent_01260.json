@@ -1,0 +1,47 @@
+{
+  "conversation_id": "3ffcedbb-0664-4b4a-977b-1ba4cde4e7b4",
+  "timestamp": "2024-11-01 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-01 14:36:56",
+      "message": "I need your bank account details to transfer money"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-01 14:37:56",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-01 14:38:56",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-01 14:39:56",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-01 14:41:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-01 14:42:56",
+      "message": "This request seems unusual and requires review."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-01 14:44:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-01 14:45:56",
+      "message": "This request requires additional security measures."
+    }
+  ]
+}

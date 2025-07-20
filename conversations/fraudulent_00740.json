@@ -1,0 +1,57 @@
+{
+  "conversation_id": "9bbd6065-ba90-4dd7-ac47-c08c8d5c9bb5",
+  "timestamp": "2024-10-21 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-21 14:36:56",
+      "message": "I can get you a loan with no credit check"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-21 14:37:56",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-21 14:38:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-21 14:40:56",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-21 14:41:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-21 14:44:56",
+      "message": "I need to escalate this to our fraud prevention team."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-21 14:46:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-21 14:48:56",
+      "message": "That's not a standard procedure for our company."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-21 14:50:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-21 14:52:56",
+      "message": "That's not a standard procedure for our company."
+    }
+  ]
+}

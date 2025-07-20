@@ -1,0 +1,57 @@
+{
+  "conversation_id": "b0bc02f1-7d25-4a59-920d-7201b498092d",
+  "timestamp": "2024-08-04 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-04 14:36:56",
+      "message": "I need to transfer money urgently to my sick relative"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-04 14:39:56",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-04 14:41:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-04 14:43:56",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-04 14:45:56",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-04 14:48:56",
+      "message": "I cannot provide account information without proper authentication."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-04 14:49:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-04 14:50:56",
+      "message": "I cannot provide account information without proper authentication."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-04 14:52:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-04 14:55:56",
+      "message": "This request seems unusual and requires review."
+    }
+  ]
+}

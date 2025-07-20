@@ -1,0 +1,57 @@
+{
+  "conversation_id": "4c1fd1e8-6b92-4b37-814d-fda1ad7e0a85",
+  "timestamp": "2024-09-19 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-19 14:36:55",
+      "message": "I can help you make money fast with cryptocurrency"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-19 14:39:55",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-19 14:40:55",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-19 14:41:55",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-19 14:43:55",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-19 14:45:55",
+      "message": "I cannot process that request without proper verification."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-19 14:47:55",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-19 14:48:55",
+      "message": "I need to escalate this to our fraud prevention team."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-19 14:50:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-19 14:52:55",
+      "message": "I need to contact you through official channels only."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "conversation_id": "f7e2ca98-da50-4ada-97c7-4cda895f6c23",
+  "timestamp": "2024-10-03 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-03 14:36:55",
+      "message": "I can help you make money fast with cryptocurrency"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-03 14:37:55",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-03 14:39:55",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-03 14:42:55",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-03 14:44:55",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-03 14:46:55",
+      "message": "This request requires additional security measures."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-03 14:47:55",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-03 14:48:55",
+      "message": "I cannot process that request without proper verification."
+    }
+  ]
+}

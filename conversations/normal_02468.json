@@ -1,0 +1,37 @@
+{
+  "conversation_id": "f8e875b4-82a8-41b5-8d6b-2d6b9d097294",
+  "timestamp": "2025-06-15 14:36:49",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-15 14:36:49",
+      "message": "Can you verify my identity?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-15 14:39:49",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-15 14:42:49",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-15 14:44:49",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-15 14:46:49",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-15 14:51:49",
+      "message": "Let me transfer you to the appropriate department."
+    }
+  ]
+}

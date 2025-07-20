@@ -1,0 +1,37 @@
+{
+  "conversation_id": "4853f110-4f4c-4a5e-8654-3fd8524c3337",
+  "timestamp": "2025-03-06 14:36:52",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-06 14:36:52",
+      "message": "I'm having trouble logging in."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-06 14:38:52",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-06 14:41:52",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-06 14:43:52",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-06 14:45:52",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-06 14:46:52",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "conversation_id": "5e6ac0cb-5901-4852-bb17-d07ea294ca26",
+  "timestamp": "2024-12-03 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-03 14:36:55",
+      "message": "I can help you make money fast with cryptocurrency"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-03 14:39:55",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-03 14:40:55",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-03 14:43:55",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-03 14:44:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-03 14:45:55",
+      "message": "This request requires additional security measures."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-03 14:46:55",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-03 14:49:55",
+      "message": "I cannot provide account information without proper authentication."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-03 14:51:55",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-03 14:54:55",
+      "message": "I cannot process urgent transfers without verification."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-03 14:55:55",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-03 14:57:55",
+      "message": "This request requires additional security measures."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "conversation_id": "42e09dbb-c1d1-47a1-8e50-b3245f710f2a",
+  "timestamp": "2025-02-13 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-13 14:36:56",
+      "message": "I need your credit card information to process a refund"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-13 14:37:56",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-13 14:39:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-13 14:42:56",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

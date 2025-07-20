@@ -1,0 +1,47 @@
+{
+  "conversation_id": "3ad75251-0df7-4503-a41d-2f5cfe99aa56",
+  "timestamp": "2024-08-31 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-31 14:36:56",
+      "message": "I'm a Nigerian prince and need your help"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-31 14:38:56",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-31 14:40:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-31 14:42:56",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-31 14:43:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-31 14:45:56",
+      "message": "That's not how we handle account changes."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-31 14:47:56",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-31 14:50:56",
+      "message": "I need to contact you through official channels only."
+    }
+  ]
+}

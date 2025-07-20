@@ -1,0 +1,37 @@
+{
+  "conversation_id": "d9d26a87-9ab1-422d-a8d2-fd3f541f7a72",
+  "timestamp": "2024-12-05 14:36:49",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-05 14:36:49",
+      "message": "I'm having trouble logging in."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-05 14:37:49",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-05 14:40:49",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-05 14:41:49",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-05 14:44:49",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-05 14:46:49",
+      "message": "I can see your account information now."
+    }
+  ]
+}

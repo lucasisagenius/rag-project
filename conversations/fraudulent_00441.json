@@ -1,0 +1,57 @@
+{
+  "conversation_id": "97b292cf-b857-4e36-bf0c-9efba38816bd",
+  "timestamp": "2024-12-08 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-08 14:36:55",
+      "message": "I need you to buy gift cards and send me the codes"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-08 14:38:55",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-08 14:39:55",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-08 14:42:55",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-08 14:44:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-08 14:45:55",
+      "message": "I need to escalate this to our fraud prevention team."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-08 14:46:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-08 14:47:55",
+      "message": "I cannot provide account information without proper authentication."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-08 14:48:55",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-08 14:51:55",
+      "message": "This request requires additional security measures."
+    }
+  ]
+}

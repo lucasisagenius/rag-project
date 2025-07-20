@@ -1,0 +1,67 @@
+{
+  "conversation_id": "c0a23533-3f8e-4028-921e-54fc0b872842",
+  "timestamp": "2024-12-09 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-09 14:36:56",
+      "message": "I need your bank account details to transfer money"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-09 14:39:56",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-09 14:40:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-09 14:42:56",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-09 14:43:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-09 14:44:56",
+      "message": "I need to escalate this to our fraud prevention team."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-09 14:46:56",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-09 14:47:56",
+      "message": "I cannot process that request without proper verification."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-09 14:49:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-09 14:52:56",
+      "message": "I need to verify this through official channels."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-09 14:54:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-09 14:57:56",
+      "message": "I need to escalate this to our fraud prevention team."
+    }
+  ]
+}

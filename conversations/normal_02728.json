@@ -1,0 +1,37 @@
+{
+  "conversation_id": "2dbcbb60-c19b-4a3f-a6a8-4db9c604659c",
+  "timestamp": "2025-02-13 14:36:49",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-13 14:36:49",
+      "message": "Can you explain this charge on my account?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-13 14:37:49",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-13 14:40:49",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-13 14:41:49",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-13 14:44:49",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-13 14:46:49",
+      "message": "What specific issue are you experiencing?"
+    }
+  ]
+}

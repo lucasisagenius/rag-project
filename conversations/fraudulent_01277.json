@@ -1,0 +1,47 @@
+{
+  "conversation_id": "6c6763b5-7d7f-455a-9d4d-9649ee6fbc91",
+  "timestamp": "2024-11-15 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-15 14:36:56",
+      "message": "I won a lottery and need to pay taxes to claim it"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-15 14:38:56",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-15 14:39:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-15 14:41:56",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-15 14:43:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-15 14:46:56",
+      "message": "I cannot process that request without proper verification."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-15 14:48:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-15 14:51:56",
+      "message": "I cannot process that request without proper verification."
+    }
+  ]
+}

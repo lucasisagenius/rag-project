@@ -1,0 +1,57 @@
+{
+  "conversation_id": "a07a39e1-7345-4e2c-b3a7-d8967adc6947",
+  "timestamp": "2024-09-02 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-02 14:36:56",
+      "message": "I need your credit card information to process a refund"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-02 14:39:56",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-02 14:41:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-02 14:42:56",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-02 14:44:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-02 14:47:56",
+      "message": "This request requires additional security measures."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-02 14:48:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-02 14:51:56",
+      "message": "I cannot process that request without proper verification."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-02 14:53:56",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-02 14:56:56",
+      "message": "I need to verify this through official channels."
+    }
+  ]
+}

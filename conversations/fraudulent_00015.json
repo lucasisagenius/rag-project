@@ -1,0 +1,57 @@
+{
+  "conversation_id": "ed66ef17-20a0-4e0a-bdd9-5a0071da9acc",
+  "timestamp": "2025-05-07 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-07 14:36:55",
+      "message": "I'm calling from Microsoft support about your computer"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-07 14:38:55",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-07 14:40:55",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-07 14:42:55",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-07 14:44:55",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-07 14:45:55",
+      "message": "I cannot process urgent transfers without verification."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-07 14:47:55",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-07 14:49:55",
+      "message": "I need to escalate this to our fraud prevention team."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-07 14:51:55",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-07 14:54:55",
+      "message": "I cannot process urgent transfers without verification."
+    }
+  ]
+}

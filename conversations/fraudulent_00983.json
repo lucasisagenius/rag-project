@@ -1,0 +1,37 @@
+{
+  "conversation_id": "b91f81a5-9e7d-4df3-a14a-b14a9577f8dc",
+  "timestamp": "2025-01-08 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-08 14:36:56",
+      "message": "I need to transfer money urgently to my sick relative"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-08 14:39:56",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-08 14:40:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-08 14:41:56",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-08 14:42:56",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-08 14:44:56",
+      "message": "I cannot process urgent transfers without verification."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "conversation_id": "427732a8-4b67-4618-a099-90ea53a68b72",
+  "timestamp": "2024-11-27 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-27 14:36:56",
+      "message": "I'm calling from Microsoft support about your computer"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-27 14:38:56",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-27 14:39:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-27 14:40:56",
+      "message": "Let me transfer you to the appropriate department."
+    }
+  ]
+}

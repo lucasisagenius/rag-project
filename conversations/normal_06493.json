@@ -1,0 +1,37 @@
+{
+  "conversation_id": "b9a3ea9a-0ead-4b0c-8c03-7c6b775190e6",
+  "timestamp": "2024-10-30 14:36:53",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-30 14:36:53",
+      "message": "I need help with a transaction."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-30 14:38:53",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-30 14:40:53",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-30 14:41:53",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-30 14:42:53",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-30 14:45:53",
+      "message": "I'd be happy to help you with that."
+    }
+  ]
+}

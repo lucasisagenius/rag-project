@@ -1,0 +1,27 @@
+{
+  "conversation_id": "163bfee9-e3d4-4792-87cb-ebc4a60c3d8f",
+  "timestamp": "2025-05-28 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-28 14:36:57",
+      "message": "I won a lottery and need to pay taxes to claim it"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-28 14:38:57",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-28 14:39:57",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-28 14:40:57",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

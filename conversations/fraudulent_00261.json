@@ -1,0 +1,37 @@
+{
+  "conversation_id": "80f88cdf-9b55-4170-a7c6-ed3a41febc38",
+  "timestamp": "2025-02-09 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-09 14:36:55",
+      "message": "I can help you make money fast with cryptocurrency"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-09 14:37:55",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-09 14:38:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-09 14:39:55",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-09 14:40:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-09 14:42:55",
+      "message": "I need to contact you through official channels only."
+    }
+  ]
+}

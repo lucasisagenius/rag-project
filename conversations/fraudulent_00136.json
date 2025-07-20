@@ -1,0 +1,47 @@
+{
+  "conversation_id": "ff7430e7-ed77-4e94-bea9-98e850740131",
+  "timestamp": "2024-08-16 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-16 14:36:55",
+      "message": "I'm calling from Microsoft support about your computer"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-16 14:37:55",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-16 14:39:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-16 14:42:55",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-16 14:43:55",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-16 14:44:55",
+      "message": "I need to contact you through official channels only."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-08-16 14:45:55",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-08-16 14:47:55",
+      "message": "This request requires additional security measures."
+    }
+  ]
+}

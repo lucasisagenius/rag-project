@@ -1,0 +1,57 @@
+{
+  "conversation_id": "b8367174-5229-40e8-947a-9606432515aa",
+  "timestamp": "2024-09-30 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-30 14:36:55",
+      "message": "I need your social security number for verification"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-30 14:37:55",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-30 14:38:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-30 14:40:55",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-30 14:41:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-30 14:44:55",
+      "message": "I need to verify this through official channels."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-30 14:46:55",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-30 14:49:55",
+      "message": "I need to contact you through official channels only."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-30 14:50:55",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-30 14:53:55",
+      "message": "This request requires additional security measures."
+    }
+  ]
+}

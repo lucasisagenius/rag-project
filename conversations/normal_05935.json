@@ -1,0 +1,37 @@
+{
+  "conversation_id": "4cfd156f-acb9-4a5d-a7a2-73cb9927c2ac",
+  "timestamp": "2025-06-02 14:36:53",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-02 14:36:53",
+      "message": "Can you help me reset my password?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-02 14:37:53",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-02 14:40:53",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-02 14:45:53",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-02 14:47:53",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-02 14:49:53",
+      "message": "I can see your account information now."
+    }
+  ]
+}

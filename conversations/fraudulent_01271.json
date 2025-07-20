@@ -1,0 +1,37 @@
+{
+  "conversation_id": "f169f8bf-6e94-402c-9f37-7c70d9ae7028",
+  "timestamp": "2025-03-14 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-14 14:36:56",
+      "message": "I can get you a loan with no credit check"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-14 14:39:56",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-14 14:41:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-14 14:43:56",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-14 14:44:56",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-14 14:47:56",
+      "message": "This request seems unusual and requires review."
+    }
+  ]
+}

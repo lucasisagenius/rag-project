@@ -1,0 +1,37 @@
+{
+  "conversation_id": "8986ddc4-4ae4-4bd4-b835-ac44224855e2",
+  "timestamp": "2024-10-22 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-22 14:36:56",
+      "message": "I need your social security number for verification"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-22 14:39:56",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-22 14:41:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-22 14:43:56",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-22 14:44:56",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-22 14:47:56",
+      "message": "That's not how we handle account changes."
+    }
+  ]
+}

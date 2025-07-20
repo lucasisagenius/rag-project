@@ -1,0 +1,67 @@
+{
+  "conversation_id": "6b11a441-9428-47fd-bf2b-cc5beb5e5ab0",
+  "timestamp": "2025-06-19 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-19 14:36:57",
+      "message": "I need your bank account details to transfer money"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-19 14:37:57",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-19 14:39:57",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-19 14:41:57",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-19 14:43:57",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-19 14:44:57",
+      "message": "I need to contact you through official channels only."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-19 14:46:57",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-19 14:48:57",
+      "message": "I cannot process urgent transfers without verification."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-19 14:50:57",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-19 14:53:57",
+      "message": "I need to contact you through official channels only."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-19 14:54:57",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-19 14:56:57",
+      "message": "I cannot provide account information without proper authentication."
+    }
+  ]
+}

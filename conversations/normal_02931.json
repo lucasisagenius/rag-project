@@ -1,0 +1,37 @@
+{
+  "conversation_id": "673cb0c3-1e73-438f-b9c8-890fdf4b6adf",
+  "timestamp": "2025-06-26 14:36:49",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-26 14:36:49",
+      "message": "Hi, I need help with my account."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-26 14:40:49",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-26 14:43:49",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-26 14:47:49",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-26 14:48:49",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-26 14:52:49",
+      "message": "I'll need to ask you some security questions."
+    }
+  ]
+}

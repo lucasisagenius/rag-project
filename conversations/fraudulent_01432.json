@@ -1,0 +1,27 @@
+{
+  "conversation_id": "7f5742e9-62f7-45b7-8ba3-80b4f007ad11",
+  "timestamp": "2025-07-11 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-07-11 14:36:56",
+      "message": "I'm calling from Microsoft support about your computer"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-07-11 14:39:56",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-07-11 14:40:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-07-11 14:41:56",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

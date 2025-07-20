@@ -1,0 +1,27 @@
+{
+  "conversation_id": "d7dbfb71-7fc2-477f-b8e2-4cf5c32d192b",
+  "timestamp": "2025-01-04 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-04 14:36:56",
+      "message": "I need you to buy gift cards and send me the codes"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-04 14:39:56",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-04 14:41:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-04 14:42:56",
+      "message": "Can you provide your account number?"
+    }
+  ]
+}

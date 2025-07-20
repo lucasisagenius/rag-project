@@ -1,0 +1,37 @@
+{
+  "conversation_id": "766997a7-8b77-41cd-aa07-a1bf5224b434",
+  "timestamp": "2025-05-25 14:36:48",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-25 14:36:48",
+      "message": "I want to update my personal information."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-25 14:39:48",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-25 14:42:48",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-25 14:43:48",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-25 14:45:48",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-25 14:49:48",
+      "message": "I'd be happy to help you with that."
+    }
+  ]
+}

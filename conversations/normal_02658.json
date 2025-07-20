@@ -1,0 +1,37 @@
+{
+  "conversation_id": "ba32de13-0571-4911-82e5-dd8a990aef10",
+  "timestamp": "2024-11-09 14:36:49",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-09 14:36:49",
+      "message": "I need help with a transaction."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-09 14:39:49",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-09 14:42:49",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-09 14:46:49",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-09 14:47:49",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-09 14:50:49",
+      "message": "What specific issue are you experiencing?"
+    }
+  ]
+}

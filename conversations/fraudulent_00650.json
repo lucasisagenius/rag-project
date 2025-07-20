@@ -1,0 +1,27 @@
+{
+  "conversation_id": "550aac56-313b-4dec-b9fa-67448b25d69e",
+  "timestamp": "2025-01-21 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-21 14:36:56",
+      "message": "I need your social security number for verification"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-21 14:39:56",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-21 14:41:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-21 14:43:56",
+      "message": "What specific issue are you experiencing?"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "conversation_id": "8539201e-ef9c-4cb0-8cf7-1e9cab3f91a2",
+  "timestamp": "2025-01-02 14:36:48",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-02 14:36:48",
+      "message": "I want to add a new payment method."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-02 14:39:48",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-02 14:42:48",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-02 14:44:48",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-02 14:47:48",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-02 14:49:48",
+      "message": "I'll need to escalate this to a supervisor."
+    }
+  ]
+}

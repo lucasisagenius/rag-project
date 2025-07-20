@@ -1,0 +1,37 @@
+{
+  "conversation_id": "45485f47-d4ae-4c71-acaf-a039d3b59b49",
+  "timestamp": "2025-05-20 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-20 14:36:56",
+      "message": "I need you to buy gift cards and send me the codes"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-20 14:39:56",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-20 14:41:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-20 14:42:56",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-20 14:43:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-20 14:44:56",
+      "message": "I need to contact you through official channels only."
+    }
+  ]
+}

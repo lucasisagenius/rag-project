@@ -1,0 +1,37 @@
+{
+  "conversation_id": "e3ff471b-e189-4911-af73-37b170ef23f5",
+  "timestamp": "2025-04-28 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-28 14:36:56",
+      "message": "I need you to buy gift cards and send me the codes"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-28 14:37:56",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-28 14:39:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-28 14:40:56",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-28 14:41:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-28 14:43:56",
+      "message": "I cannot process urgent transfers without verification."
+    }
+  ]
+}

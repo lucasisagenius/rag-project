@@ -1,0 +1,37 @@
+{
+  "conversation_id": "085d07e8-f336-42fb-94b2-c6ebbf495bfd",
+  "timestamp": "2024-12-09 14:36:52",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-09 14:36:52",
+      "message": "Hi, I need help with my account."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-09 14:39:52",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-09 14:41:52",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-09 14:44:52",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-09 14:45:52",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-09 14:49:52",
+      "message": "What specific issue are you experiencing?"
+    }
+  ]
+}

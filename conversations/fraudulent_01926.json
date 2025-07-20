@@ -1,0 +1,27 @@
+{
+  "conversation_id": "707c6742-efcb-4a0f-b1cb-25e7b0a28cb3",
+  "timestamp": "2024-11-27 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-27 14:36:57",
+      "message": "I need your social security number for verification"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-27 14:38:57",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-27 14:39:57",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-27 14:42:57",
+      "message": "I can see your account information now."
+    }
+  ]
+}

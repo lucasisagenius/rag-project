@@ -1,0 +1,27 @@
+{
+  "conversation_id": "41ede1ab-ff1a-4c02-a9e8-9e737052fdf9",
+  "timestamp": "2025-05-29 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-29 14:36:57",
+      "message": "I can help you make money fast with cryptocurrency"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-29 14:39:57",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-29 14:40:57",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-29 14:42:57",
+      "message": "Let me transfer you to the appropriate department."
+    }
+  ]
+}

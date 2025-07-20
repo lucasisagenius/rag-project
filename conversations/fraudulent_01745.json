@@ -1,0 +1,37 @@
+{
+  "conversation_id": "0d5b96b4-5ebc-4361-8482-7740ae87fd35",
+  "timestamp": "2025-04-07 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-07 14:36:57",
+      "message": "I need your social security number for verification"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-07 14:37:57",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-07 14:39:57",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-07 14:40:57",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-07 14:41:57",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-07 14:43:57",
+      "message": "I cannot process urgent transfers without verification."
+    }
+  ]
+}

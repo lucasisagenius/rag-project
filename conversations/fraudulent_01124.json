@@ -1,0 +1,47 @@
+{
+  "conversation_id": "be77ba0b-8bd4-49b1-9e17-6a3aff8b2675",
+  "timestamp": "2024-09-23 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-23 14:36:56",
+      "message": "I need your bank account details to transfer money"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-23 14:37:56",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-23 14:38:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-23 14:41:56",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-23 14:42:56",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-23 14:43:56",
+      "message": "This request seems unusual and requires review."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-23 14:44:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-23 14:46:56",
+      "message": "That's not a standard procedure for our company."
+    }
+  ]
+}

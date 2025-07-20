@@ -1,0 +1,57 @@
+{
+  "conversation_id": "bf1d9f31-3d50-4bea-a433-7fe31a500c09",
+  "timestamp": "2024-10-22 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-22 14:36:55",
+      "message": "I need you to buy gift cards and send me the codes"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-22 14:38:55",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-22 14:40:55",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-22 14:43:55",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-22 14:45:55",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-22 14:48:55",
+      "message": "This request seems unusual and requires review."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-22 14:50:55",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-22 14:51:55",
+      "message": "This request seems unusual and requires review."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-22 14:53:55",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-22 14:56:55",
+      "message": "That's not a standard procedure for our company."
+    }
+  ]
+}

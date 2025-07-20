@@ -1,0 +1,37 @@
+{
+  "conversation_id": "56bc4e9e-6a38-4fa4-a25d-2ddd7ce44839",
+  "timestamp": "2025-02-03 14:36:47",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-03 14:36:47",
+      "message": "Can you explain this charge on my account?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-03 14:41:47",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-03 14:44:47",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-03 14:49:47",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-03 14:50:47",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-03 14:52:47",
+      "message": "I'll need to ask you some security questions."
+    }
+  ]
+}

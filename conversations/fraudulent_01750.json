@@ -1,0 +1,37 @@
+{
+  "conversation_id": "a6afdc38-3ad2-4bc7-a4a7-6941a0f055db",
+  "timestamp": "2025-03-28 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-28 14:36:57",
+      "message": "I'm a Nigerian prince and need your help"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-28 14:37:57",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-28 14:39:57",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-28 14:41:57",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-28 14:43:57",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-28 14:44:57",
+      "message": "I need to contact you through official channels only."
+    }
+  ]
+}

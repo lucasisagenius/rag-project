@@ -1,0 +1,27 @@
+{
+  "conversation_id": "0213d06a-a9fb-4606-8b0c-67391eb2fe21",
+  "timestamp": "2024-07-26 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-07-26 14:36:56",
+      "message": "I need your credit card information to process a refund"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-07-26 14:38:56",
+      "message": "Let me transfer you to the appropriate department."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-07-26 14:39:56",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-07-26 14:40:56",
+      "message": "Let me verify your account information first."
+    }
+  ]
+}

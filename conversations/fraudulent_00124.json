@@ -1,0 +1,37 @@
+{
+  "conversation_id": "9f7a85ee-8f7c-4cc5-9be2-692462e91c9e",
+  "timestamp": "2025-02-25 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-25 14:36:55",
+      "message": "I need your social security number for verification"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-25 14:38:55",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-25 14:39:55",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-25 14:41:55",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-25 14:43:55",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-25 14:44:55",
+      "message": "I need to verify this through official channels."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "conversation_id": "aeed29ed-3c05-4a51-95bd-cbbd3ff10b47",
+  "timestamp": "2024-09-28 14:36:51",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-28 14:36:51",
+      "message": "I need to change my email address."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-28 14:40:51",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-28 14:42:51",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-28 14:46:51",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-28 14:47:51",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-28 14:51:51",
+      "message": "Can you provide your account number?"
+    }
+  ]
+}

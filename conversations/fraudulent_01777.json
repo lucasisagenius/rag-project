@@ -1,0 +1,27 @@
+{
+  "conversation_id": "e3a4c597-b250-4ad7-899b-40c2cf2dab17",
+  "timestamp": "2024-09-20 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-20 14:36:57",
+      "message": "I need your credit card information to process a refund"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-20 14:38:57",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-20 14:40:57",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-20 14:41:57",
+      "message": "Let me transfer you to the appropriate department."
+    }
+  ]
+}

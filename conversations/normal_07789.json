@@ -1,0 +1,37 @@
+{
+  "conversation_id": "9b3cfd4b-2657-46df-b4ab-343850cf13ca",
+  "timestamp": "2025-05-18 14:36:55",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-18 14:36:55",
+      "message": "Can you verify my identity?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-18 14:39:55",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-18 14:40:55",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-18 14:44:55",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-18 14:46:55",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-18 14:49:55",
+      "message": "I'll need to escalate this to a supervisor."
+    }
+  ]
+}

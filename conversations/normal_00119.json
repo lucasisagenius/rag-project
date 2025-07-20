@@ -1,0 +1,37 @@
+{
+  "conversation_id": "275a624c-2759-4197-86c0-ad1bc3c53434",
+  "timestamp": "2025-05-16 14:36:46",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-16 14:36:46",
+      "message": "I'm having trouble logging in."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-16 14:40:46",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-16 14:43:46",
+      "message": "Thank you. That sounds good."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-16 14:44:46",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-16 14:47:46",
+      "message": "Thank you. What else do you need from me?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-16 14:49:46",
+      "message": "What specific issue are you experiencing?"
+    }
+  ]
+}

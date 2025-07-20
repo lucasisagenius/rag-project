@@ -1,0 +1,37 @@
+{
+  "conversation_id": "742c6f96-b545-45ea-8c1f-1944809ea5c8",
+  "timestamp": "2024-10-20 14:36:46",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-20 14:36:46",
+      "message": "I want to add a new payment method."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-20 14:40:46",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-20 14:43:46",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-20 14:46:46",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-20 14:49:46",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-20 14:50:46",
+      "message": "What specific issue are you experiencing?"
+    }
+  ]
+}

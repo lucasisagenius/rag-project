@@ -1,0 +1,27 @@
+{
+  "conversation_id": "1007335a-f1b0-428d-9d4e-ba6aa51dcd35",
+  "timestamp": "2025-04-17 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-17 14:36:56",
+      "message": "I need your bank account details to transfer money"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-17 14:37:56",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-17 14:39:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-17 14:42:56",
+      "message": "I'd be happy to help you with that."
+    }
+  ]
+}

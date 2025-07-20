@@ -1,0 +1,27 @@
+{
+  "conversation_id": "be2afe0a-560d-4602-94fa-4dd642ac9bf8",
+  "timestamp": "2024-11-19 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-19 14:36:56",
+      "message": "I can help you make money fast with cryptocurrency"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-19 14:37:56",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-19 14:38:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-19 14:41:56",
+      "message": "Let me verify your account information first."
+    }
+  ]
+}

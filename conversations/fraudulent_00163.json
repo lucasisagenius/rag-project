@@ -1,0 +1,27 @@
+{
+  "conversation_id": "5c74fca1-be12-4e06-994a-7e06831414c1",
+  "timestamp": "2025-06-22 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-22 14:36:55",
+      "message": "I need your social security number for verification"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-22 14:39:55",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-22 14:41:55",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-22 14:44:55",
+      "message": "What specific issue are you experiencing?"
+    }
+  ]
+}

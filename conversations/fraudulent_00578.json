@@ -1,0 +1,27 @@
+{
+  "conversation_id": "bcc3bac1-8645-495f-9009-db411887c479",
+  "timestamp": "2024-10-07 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-07 14:36:56",
+      "message": "I'm calling from Microsoft support about your computer"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-07 14:37:56",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-07 14:39:56",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-07 14:40:56",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

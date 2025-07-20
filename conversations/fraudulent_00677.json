@@ -1,0 +1,27 @@
+{
+  "conversation_id": "1bb23a79-7566-42f8-b95f-52facf337ba2",
+  "timestamp": "2024-07-21 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-07-21 14:36:56",
+      "message": "I'm a Nigerian prince and need your help"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-07-21 14:39:56",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-07-21 14:40:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-07-21 14:41:56",
+      "message": "What specific issue are you experiencing?"
+    }
+  ]
+}

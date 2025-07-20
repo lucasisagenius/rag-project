@@ -1,0 +1,27 @@
+{
+  "conversation_id": "5bc21529-2cbe-457f-bcb3-54e231fdc875",
+  "timestamp": "2025-04-10 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-10 14:36:55",
+      "message": "I need your credit card information to process a refund"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-10 14:39:55",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-10 14:40:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-10 14:42:55",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

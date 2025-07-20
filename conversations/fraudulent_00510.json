@@ -1,0 +1,27 @@
+{
+  "conversation_id": "43c3e67d-8455-40fe-8e6d-8e4f900f07a5",
+  "timestamp": "2024-10-12 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-12 14:36:56",
+      "message": "I'm calling from Microsoft support about your computer"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-12 14:39:56",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-12 14:40:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-12 14:43:56",
+      "message": "I can see your account information now."
+    }
+  ]
+}

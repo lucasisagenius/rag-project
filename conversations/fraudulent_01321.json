@@ -1,0 +1,27 @@
+{
+  "conversation_id": "09dd5c6e-a9da-427d-8962-8f58572d3b49",
+  "timestamp": "2025-04-09 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-09 14:36:56",
+      "message": "I need to transfer money urgently to my sick relative"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-09 14:37:56",
+      "message": "I can see your account information now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-09 14:38:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-09 14:40:56",
+      "message": "Let me transfer you to the appropriate department."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "conversation_id": "427e8a99-15bd-477c-8522-439349be24a0",
+  "timestamp": "2025-02-04 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-04 14:36:56",
+      "message": "I'm a Nigerian prince and need your help"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-04 14:37:56",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-04 14:38:56",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-04 14:40:56",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

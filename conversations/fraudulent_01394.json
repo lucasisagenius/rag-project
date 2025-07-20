@@ -1,0 +1,27 @@
+{
+  "conversation_id": "6ea75b0c-bc70-4125-9146-685a6622ba1c",
+  "timestamp": "2025-05-09 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-09 14:36:56",
+      "message": "I need you to buy gift cards and send me the codes"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-09 14:37:56",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-09 14:39:56",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-09 14:41:56",
+      "message": "I'm looking up your account now."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "conversation_id": "15e4b370-ce39-4f45-825c-8917d40d1f8f",
+  "timestamp": "2024-12-01 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-01 14:36:56",
+      "message": "I can get you a loan with no credit check"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-01 14:38:56",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-01 14:39:56",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-01 14:41:56",
+      "message": "I can see your account information now."
+    }
+  ]
+}

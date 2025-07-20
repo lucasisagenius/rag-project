@@ -1,0 +1,27 @@
+{
+  "conversation_id": "edda2970-2307-402b-b695-c738033c0faf",
+  "timestamp": "2025-01-02 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-02 14:36:55",
+      "message": "I need your social security number for verification"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-02 14:37:55",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-02 14:39:55",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-02 14:41:55",
+      "message": "I'll need to escalate this to a supervisor."
+    }
+  ]
+}

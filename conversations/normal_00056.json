@@ -1,0 +1,37 @@
+{
+  "conversation_id": "432064f1-4c1b-40b8-af82-6c388cdfa17c",
+  "timestamp": "2025-07-02 14:36:46",
+  "fraud_risk": false,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-07-02 14:36:46",
+      "message": "I want to update my personal information."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-07-02 14:41:46",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-07-02 14:44:46",
+      "message": "Thank you. Can you help me with something else?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-07-02 14:47:46",
+      "message": "Let me verify your account information first."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-07-02 14:49:46",
+      "message": "Thank you. I understand."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-07-02 14:52:46",
+      "message": "What specific issue are you experiencing?"
+    }
+  ]
+}

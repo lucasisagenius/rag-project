@@ -1,0 +1,27 @@
+{
+  "conversation_id": "48744dca-ed00-4403-ac88-654538a37ac5",
+  "timestamp": "2025-04-02 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-02 14:36:56",
+      "message": "I need your bank account details to transfer money"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-02 14:38:56",
+      "message": "I'll need to ask you some security questions."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-04-02 14:39:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-04-02 14:41:56",
+      "message": "I'll need to escalate this to a supervisor."
+    }
+  ]
+}

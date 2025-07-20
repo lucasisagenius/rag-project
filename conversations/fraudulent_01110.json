@@ -1,0 +1,27 @@
+{
+  "conversation_id": "8b2c0fbc-3025-4770-9f3f-bc23c47a6441",
+  "timestamp": "2024-09-18 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-18 14:36:56",
+      "message": "I'm calling from Microsoft support about your computer"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-18 14:38:56",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-09-18 14:40:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-09-18 14:41:56",
+      "message": "I'm looking up your account now."
+    }
+  ]
+}

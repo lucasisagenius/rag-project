@@ -1,0 +1,27 @@
+{
+  "conversation_id": "8992b1c0-00b6-4b02-a318-9a6687abcda7",
+  "timestamp": "2025-02-17 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-17 14:36:56",
+      "message": "I need you to buy gift cards and send me the codes"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-17 14:39:56",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-17 14:40:56",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-17 14:42:56",
+      "message": "I'll need to escalate this to a supervisor."
+    }
+  ]
+}

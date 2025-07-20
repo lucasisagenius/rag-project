@@ -1,0 +1,27 @@
+{
+  "conversation_id": "2e1ceab7-085a-46ec-8b97-649752ee827d",
+  "timestamp": "2024-10-10 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-10 14:36:56",
+      "message": "I can help you make money fast with cryptocurrency"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-10 14:37:56",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-10-10 14:39:56",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-10-10 14:42:56",
+      "message": "Let me verify your account information first."
+    }
+  ]
+}

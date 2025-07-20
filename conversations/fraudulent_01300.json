@@ -1,0 +1,27 @@
+{
+  "conversation_id": "97ac936b-7d99-4103-800c-3e0092f7f19e",
+  "timestamp": "2025-06-27 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-27 14:36:56",
+      "message": "I can help you make money fast with cryptocurrency"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-27 14:39:56",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-27 14:40:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-27 14:41:56",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

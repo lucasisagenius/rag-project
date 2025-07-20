@@ -1,0 +1,27 @@
+{
+  "conversation_id": "775643c9-6454-45a6-9367-732c3b251600",
+  "timestamp": "2024-12-12 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-12 14:36:57",
+      "message": "I need your bank account details to transfer money"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-12 14:37:57",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-12 14:39:57",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-12 14:40:57",
+      "message": "Can you provide your account number?"
+    }
+  ]
+}

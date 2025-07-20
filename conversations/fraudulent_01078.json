@@ -1,0 +1,27 @@
+{
+  "conversation_id": "ef4c25fe-674d-4f01-8bde-b16c548e0747",
+  "timestamp": "2024-11-16 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-16 14:36:56",
+      "message": "I need your social security number for verification"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-16 14:38:56",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-16 14:40:56",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-16 14:43:56",
+      "message": "I'd be happy to help you with that."
+    }
+  ]
+}

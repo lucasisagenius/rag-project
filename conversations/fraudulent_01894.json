@@ -1,0 +1,27 @@
+{
+  "conversation_id": "371a06a6-f535-487a-a7ab-8889867b709b",
+  "timestamp": "2025-02-03 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-03 14:36:57",
+      "message": "I won a lottery and need to pay taxes to claim it"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-03 14:38:57",
+      "message": "For security purposes, I need to confirm your identity."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-02-03 14:39:57",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-02-03 14:42:57",
+      "message": "I'll need to escalate this to a supervisor."
+    }
+  ]
+}

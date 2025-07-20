@@ -1,0 +1,27 @@
+{
+  "conversation_id": "4848f319-e572-45f4-82e3-4a41459ed350",
+  "timestamp": "2024-11-12 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-12 14:36:56",
+      "message": "I'm a Nigerian prince and need your help"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-12 14:39:56",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-12 14:40:56",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-12 14:42:56",
+      "message": "I'd be happy to help you with that."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "conversation_id": "2bd43a73-1049-4d39-90e3-6e1ef68e63b7",
+  "timestamp": "2025-03-31 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-31 14:36:56",
+      "message": "I need to transfer money urgently to my sick relative"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-31 14:37:56",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-03-31 14:39:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-03-31 14:41:56",
+      "message": "Let me verify your account information first."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "conversation_id": "14993ef7-741c-402a-9331-2bc1351d98d7",
+  "timestamp": "2025-01-01 14:36:57",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-01 14:36:57",
+      "message": "I need your credit card information to process a refund"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-01 14:39:57",
+      "message": "I'd be happy to help you with that."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-01-01 14:40:57",
+      "message": "This is very urgent, my family is in danger."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-01-01 14:43:57",
+      "message": "I'll need to escalate this to a supervisor."
+    }
+  ]
+}

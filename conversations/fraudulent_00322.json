@@ -1,0 +1,27 @@
+{
+  "conversation_id": "46ac5bfb-1c17-4b33-b1bd-afd293bb930c",
+  "timestamp": "2025-06-11 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-11 14:36:55",
+      "message": "I need your credit card information to process a refund"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-11 14:38:55",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-06-11 14:39:55",
+      "message": "I need this done quickly, please hurry."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-06-11 14:40:55",
+      "message": "I can see your account information now."
+    }
+  ]
+}

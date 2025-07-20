@@ -1,0 +1,27 @@
+{
+  "conversation_id": "382db3db-4be5-4820-8368-f35ce0c87e4b",
+  "timestamp": "2024-11-08 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-08 14:36:56",
+      "message": "I need your social security number for verification"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-08 14:38:56",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-08 14:40:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-08 14:42:56",
+      "message": "Let me transfer you to the appropriate department."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "conversation_id": "29145bdf-5936-43ab-8fc0-a9b826359463",
+  "timestamp": "2025-07-18 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-07-18 14:36:55",
+      "message": "I'm calling from Microsoft support about your computer"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-07-18 14:39:55",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-07-18 14:40:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-07-18 14:43:55",
+      "message": "Can you provide your account number?"
+    }
+  ]
+}

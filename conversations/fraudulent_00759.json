@@ -1,0 +1,27 @@
+{
+  "conversation_id": "84ecf13a-1679-43a8-b29e-7c39e06ebb19",
+  "timestamp": "2024-11-29 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-29 14:36:56",
+      "message": "I'm calling from Microsoft support about your computer"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-29 14:38:56",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-29 14:40:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-29 14:43:56",
+      "message": "Let me verify your account information first."
+    }
+  ]
+}

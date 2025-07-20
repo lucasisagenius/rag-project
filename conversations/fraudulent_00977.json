@@ -1,0 +1,27 @@
+{
+  "conversation_id": "ca4bcf45-a4f8-4560-9df1-b1c61d46e0e7",
+  "timestamp": "2025-05-20 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-20 14:36:56",
+      "message": "I need to transfer money urgently to my sick relative"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-20 14:38:56",
+      "message": "Can you provide your account number?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2025-05-20 14:39:56",
+      "message": "I'll pay you extra if you help me."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2025-05-20 14:42:56",
+      "message": "I'll need to ask you some security questions."
+    }
+  ]
+}

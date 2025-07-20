@@ -1,0 +1,27 @@
+{
+  "conversation_id": "224a993c-5d6b-4d4b-95d8-9301548d80b7",
+  "timestamp": "2024-07-26 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-07-26 14:36:55",
+      "message": "I need your bank account details to transfer money"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-07-26 14:38:55",
+      "message": "I'll need to escalate this to a supervisor."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-07-26 14:39:55",
+      "message": "I don't have time for all these questions."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-07-26 14:42:55",
+      "message": "For security purposes, I need to confirm your identity."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "conversation_id": "4c4722d7-c715-446d-b3a0-7649f32c2fa4",
+  "timestamp": "2024-11-30 14:36:55",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-30 14:36:55",
+      "message": "I need your social security number for verification"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-30 14:37:55",
+      "message": "What specific issue are you experiencing?"
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-11-30 14:39:55",
+      "message": "Just do what I'm asking, please."
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-11-30 14:42:55",
+      "message": "I'll need to ask you some security questions."
+    }
+  ]
+}

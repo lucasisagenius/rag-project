@@ -1,0 +1,27 @@
+{
+  "conversation_id": "f4f811d7-5ce7-4756-85a5-59cb6bf20c3b",
+  "timestamp": "2024-12-03 14:36:56",
+  "fraud_risk": true,
+  "messages": [
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-03 14:36:56",
+      "message": "I won a lottery and need to pay taxes to claim it"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-03 14:39:56",
+      "message": "I'm looking up your account now."
+    },
+    {
+      "sender": "customer",
+      "timestamp": "2024-12-03 14:40:56",
+      "message": "Can't you make an exception?"
+    },
+    {
+      "sender": "agent",
+      "timestamp": "2024-12-03 14:42:56",
+      "message": "I'll need to ask you some security questions."
+    }
+  ]
+}
